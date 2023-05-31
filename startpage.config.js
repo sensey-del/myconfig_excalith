@@ -251,8 +251,8 @@
 						"icon": "fa-brands:uncharted"
 					},
 					{
-						"name": "Plex",
-						"url": "http://192.168.31.177:32400/web/",
+						"name": "Kirioshi",
+						"url": "http://192.168.31.149:9090/",
 						"icon": "fa-brands:fa-wpexplorer"
 					}
 				]
